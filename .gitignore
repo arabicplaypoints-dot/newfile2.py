@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+.env
+bot_data.db
+bot_security.log
+uploaded_bots/
+suspicious_files/
